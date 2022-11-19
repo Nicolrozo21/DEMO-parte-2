@@ -29,3 +29,20 @@
     
 # - PASO 3: 
 
+   - Damos click en la siguiente pestaña: 
+   
+   ![image](https://user-images.githubusercontent.com/95291737/202861669-986b7130-9a64-47f8-878e-350f468cd8f5.png)
+   
+   esta pestaña mos redirige a la pantalla de inicio.
+   
+   - Luego damos click derecho y seleccionamos la opcion de ABRIR ENLACE EN UNA PESTAÑA NUEVA en esta secciòn: 
+  
+   ![image](https://user-images.githubusercontent.com/95291737/202861741-cb589d1b-a8a7-4ed7-8d10-b0d9f365bc1c.png)
+   
+   - Nos aparecera la siguiente ventana:
+   
+   ![image](https://user-images.githubusercontent.com/95291737/202861866-8bb71d95-6b3a-4ee4-a520-cc633c20ff93.png)
+
+   
+
+    

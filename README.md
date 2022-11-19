@@ -14,7 +14,7 @@
 
 # - PASO 2: 
     
-   Para empezar a realizar las solicitudes, tenemos que tener un TOKEN para tener acceso a estos datos falsos.ç
+   Para empezar a realizar las solicitudes, tenemos que tener un TOKEN para tener acceso a estos datos falsos.
     
    - Para ello damos click en la siguiente secciòn: 
     
@@ -24,8 +24,10 @@
     
    - Despues de este paso nos aparace la siguiente ventana:
     
-   ![image](https://user-images.githubusercontent.com/95291737/202861317-56817433-862e-4664-8e0d-51a1a6e01e71.png)
-
+   ![image](https://user-images.githubusercontent.com/95291737/202862004-98934bfa-e1ef-429b-928a-272590e9eb7b.png)
+   
+   El espacio en blanco es donde nos va a mostrar nuestro TOKEN personal para poder realizar nuestras peticiones,
+   el cual vamos a copiarlo.
     
 # - PASO 3: 
 
@@ -41,7 +43,47 @@
    
    - Nos aparecera la siguiente ventana:
    
-   ![image](https://user-images.githubusercontent.com/95291737/202861866-8bb71d95-6b3a-4ee4-a520-cc633c20ff93.png)
+  ![image](https://user-images.githubusercontent.com/95291737/202862736-d5b911b1-9510-4f21-8471-23046a6ea5d0.png)
+  
+  en el recuadro en blanco colocamos el TOKEN que copiamos en el paso anterior.
+  
+  
+# - PASO 4. EJECUCIÒN DE NUESTRAS PETICIONES:
+
+   Para este paso tendremos que tener en cuanta la pantalla de inicio mencionada en el PASO 3. 
+   Nos ubicamos en la siguiente seccion de la pnatalla de inicio:
+   
+   ![image](https://user-images.githubusercontent.com/95291737/202862965-872eb153-1562-426e-978b-16faf43db29c.png)
+
+   Como podemos observar nos muestra como podemos CREAR CONSULTAR ACTUALIZAR y ELIMINAR un usuario.
+   
+   # EJEMPLO: 
+   
+   - CREAR USUARIO: 
+      
+   ![image](https://user-images.githubusercontent.com/95291737/202863618-8f9b4198-c720-4bf8-8926-4ec3a3276405.png)
+   
+   Nos ubicamos de nuevo en la pestaña de la consola donde copiamos el TOKEN que se meciono en el PASO 3 y copiamos 
+   el link en la siguiente secciòn:
+   
+   ![image](https://user-images.githubusercontent.com/95291737/202863727-f5f6deeb-2b39-470f-b1aa-be4f98d258c6.png)
+
+   Como vamos a crear un usuario seleccionamos la opcion de POST.
+   
+   - Ingresamos la estructura para poder crear el usuario:
+   
+   ![image](https://user-images.githubusercontent.com/95291737/202863884-07038818-ae0d-4187-8f92-529d106ec68c.png)
+   
+   - En este caso nuestro BODY quedaria de esta manera:
+   
+   ![image](https://user-images.githubusercontent.com/95291737/202863942-1f6bfbd5-280c-468c-b1f2-09d7d2acb88a.png)
+   
+   - Al momento de tener nuestro BODY listo damos click en el boton de SEND REQUEST
+   
+   ![image](https://user-images.githubusercontent.com/95291737/202864030-8a9d046b-ed62-4357-a535-92fa9abd42b5.png)
+
+
+
 
    
 

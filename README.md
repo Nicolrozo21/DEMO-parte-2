@@ -59,7 +59,7 @@
    
    # EJEMPLO: 
    
-   - CREAR USUARIO: 
+   # - CREAR USUARIO: 
       
    ![image](https://user-images.githubusercontent.com/95291737/202863618-8f9b4198-c720-4bf8-8926-4ec3a3276405.png)
    
@@ -82,6 +82,15 @@
    
    ![image](https://user-images.githubusercontent.com/95291737/202864030-8a9d046b-ed62-4357-a535-92fa9abd42b5.png)
 
+   # - ACTUALIZAR USUARIO
+   
+   ![image](https://user-images.githubusercontent.com/95291737/202864570-20bbac62-9718-4c89-bc6d-0701e1382be1.png)
+
+   - Resultado:
+
+   ![image](https://user-images.githubusercontent.com/95291737/202864633-bd0f3a5b-9ee2-4524-981a-034be0b47e6f.png)
+   
+   # - 
 
 
 

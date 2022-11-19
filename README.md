@@ -90,7 +90,19 @@
 
    ![image](https://user-images.githubusercontent.com/95291737/202864633-bd0f3a5b-9ee2-4524-981a-034be0b47e6f.png)
    
-   # - 
+   # - ElIMINAR USUARIO 
+   
+   ![image](https://user-images.githubusercontent.com/95291737/202864917-5351715d-00df-4b38-b57d-de0fc85548ce.png)
+
+   - Resultado
+   
+   ![image](https://user-images.githubusercontent.com/95291737/202865092-3a9c30a4-6a50-40fd-ad33-d0c825b35967.png)
+   
+   - Como lo verificamos 
+   
+   ![image](https://user-images.githubusercontent.com/95291737/202865107-89095edb-e7ad-4e7a-8c75-bb6250e37092.png)
+
+
 
 
 

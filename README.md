@@ -102,7 +102,10 @@
    
    ![image](https://user-images.githubusercontent.com/95291737/202865107-89095edb-e7ad-4e7a-8c75-bb6250e37092.png)
 
-# CITAS Y 
+# Citas y fuentes de consulta:
+
+   - https://desarrolloweb.com/colecciones/api-rest-uso-publico-libre 
+   - https://gorest.co.in/
 
 
 

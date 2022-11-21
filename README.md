@@ -35,7 +35,7 @@
    
    ![image](https://user-images.githubusercontent.com/95291737/202861669-986b7130-9a64-47f8-878e-350f468cd8f5.png)
    
-   esta pestaña mos redirige a la pantalla de inicio.
+   esta pestaña nos redirige a la pantalla de inicio.
    
    - Luego damos click derecho y seleccionamos la opcion de ABRIR ENLACE EN UNA PESTAÑA NUEVA en esta secciòn: 
   
@@ -102,6 +102,7 @@
    
    ![image](https://user-images.githubusercontent.com/95291737/202865107-89095edb-e7ad-4e7a-8c75-bb6250e37092.png)
 
+# CITAS Y 
 
 
 
